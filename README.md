@@ -1,0 +1,5 @@
+This is a very easy and small novella created by me in a couple of minutes using if and else.
+This is my first project
+
+
+Thabks for viewing my project  :)
